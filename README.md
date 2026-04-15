@@ -7,6 +7,10 @@ A secure, full-stack file manager with nested folders, image uploads, and AI int
 - **Frontend:** [https://dobby-ads-assignment.vercel.app](https://dobby-ads-assignment.vercel.app/)
 - **Backend:** [https://dobby-ads-assignment-ljij.onrender.com](https://dobby-ads-assignment-ljij.onrender.com)
 
+**Demo Credentials:**
+- Email: `test@gmail.com`
+- Password: `testing`
+
 ## Tech Stack
 
 | Layer | Technology |
