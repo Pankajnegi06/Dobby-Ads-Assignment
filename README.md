@@ -2,6 +2,11 @@
 
 A secure, full-stack file manager with nested folders, image uploads, and AI integration via MCP.
 
+### 🌐 Live Demo
+
+- **Frontend:** [https://dobby-ads-assignment.vercel.app](https://dobby-ads-assignment.vercel.app/)
+- **Backend:** [https://dobby-ads-assignment-ljij.onrender.com](https://dobby-ads-assignment-ljij.onrender.com)
+
 ## Tech Stack
 
 | Layer | Technology |

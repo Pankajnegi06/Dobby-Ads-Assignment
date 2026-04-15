@@ -1,6 +1,11 @@
 import { createContext, useContext, useState, useEffect } from 'react';
 import axios from 'axios';
 
+// In production, point to the deployed backend. In dev, Vite proxy handles it.
+axios.defaults.baseURL = import.meta.env.PROD
+  ? 'https://dobby-ads-assignment-ljij.onrender.com'
+  : '';
+
 const AuthContext = createContext(null);
 
 export function AuthProvider({ children }) {
