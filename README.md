@@ -157,7 +157,7 @@ The app includes an MCP server that lets AI assistants (like Claude Desktop) int
 3. Restart Claude Desktop — the 🔌 tools icon should appear.
 
 4. Try it:
-   - *"Log in with email user@example.com and password mypass123"*
+   - *"Log in with email test@gmail.com and password testing"*
    - *"Show me my root folders"*
    - *"Create a folder called Campaigns"*
 
