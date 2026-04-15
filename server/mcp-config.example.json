@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dobby-vault": {
+      "command": "node",
+      "args": ["c:\\Users\\pahad\\OneDrive\\Desktop\\dobby ads\\server\\mcp-server.js"]
+    }
+  }
+}
